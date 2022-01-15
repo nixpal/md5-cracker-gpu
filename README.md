@@ -5,7 +5,7 @@
 ### How to compile:
 gcc md5cracker.c md5.c -o mmd5cracker -framework opencl
 
-### Note: choose any password list you want. I tested this on a small file that I parsed from rockyou.txt.
+#### Note: choose any password list you want. I tested this on a small file that I parsed from rockyou.txt.
 
 
 ### Result:
