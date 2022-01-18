@@ -1,7 +1,9 @@
 # Md5 GPU/CPU Cracker
 
 ### About:
-This is a simple c tool to crack md5 hash using a wordlist.
+This is a simple c tool to crack md5 hash using a wordlist. 
+
+### Note: It only works with OpenCL/AMD. It won't work if you have Nvidia GPU.
 
 
 ### Usage: 
